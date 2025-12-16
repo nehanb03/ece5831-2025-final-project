@@ -25,7 +25,6 @@ https://drive.google.com/drive/u/2/folders/1RY_ikc5GvXhsEHz4L38tIJbr2lCSad8s
 
 ##  Tools & Technologies
 - Python  
-- TensorFlow / Keras  
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
